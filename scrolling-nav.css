@@ -1,0 +1,29 @@
+
+
+section {
+  padding: 150px 0;
+}
+
+/* Header visuels carrousel */
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.carousel-caption{
+ padding-bottom: 16%;
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+}
+
+/* Sections */
+
+#about {
+font
+
+}
